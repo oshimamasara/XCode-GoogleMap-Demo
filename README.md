@@ -2,8 +2,8 @@
 iPhoneアプリ(iOS 12) で Google マップを使うだけのデモ
 
 ## 各種バージョン
-XCode バージョン 10.1
-Swift  4.2
++ XCode 10.1
++ Swift  4.2
 
 ## 事前設定項目
 Cocoapods のインストール
