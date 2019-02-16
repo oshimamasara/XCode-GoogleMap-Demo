@@ -1,8 +1,4 @@
 # XCode-GoogleMap-Demo
-XCode-GoogleMap-Demo Swift4.2
-
-## 内容
-
 iPhoneアプリ(iOS 12) で Google マップを使うだけのデモ
 
 ## 各種バージョン
